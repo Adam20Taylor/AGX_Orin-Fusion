@@ -5,7 +5,6 @@ The code has been tested using the following environment:
 - Python 3.8
 - PyTorch 2.1.0
 - CUDA 11.7
-- MMCV 1.7.0
 
 The official pretrained weights and config files for the baseline models can be found at: [mmdet3d](https://github.com/open-mmlab/mmdetection3d).
 
