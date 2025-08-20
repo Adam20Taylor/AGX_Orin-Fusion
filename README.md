@@ -7,5 +7,6 @@ The code has been tested using the following environment:
 - CUDA 11.7
 - MMCV 1.7.0
 
-The pretrained weights and config files for the baseline models can be found at: [weights](https://github.com/open-mmlab/mmdetection3d).
+The official pretrained weights and config files for the baseline models can be found at: [mmdet3d](https://github.com/open-mmlab/mmdetection3d).
+
 Our trained weights used for the mid fusion can be found here: [weights](https://drive.google.com/drive/folders/1jRB-KSJ0AMDmxnrNR4nubV6aQ3nwdZrb?usp=sharing)
